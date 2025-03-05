@@ -24,6 +24,8 @@
 
 Built with React.js for the user interface, Appwrite for the Trending Movies Algorithm, and styled with TailwindCSS. The Movie Library is a platform for discovering and exploring movies! This web application allows users to search for movies, view detailed information, and stay up-to-date with the latest releases, all powered by the Movie Database API.
 
+Visit the app by going here: https://movie-library-alpha.vercel.app/
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React.js
